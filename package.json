@@ -1,0 +1,14 @@
+{
+  "name": "cash_box_be",
+  "version": "1.0.0",
+  "description": "Cash Management Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vignesh Elumalai",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
